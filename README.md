@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehryar</h1>
 <h3 align="center">A passionate Hacker/Developer</h3>
 
-- 🔭 I’m currently working on crypto_pals[https://github.com/Raysh454/crypto_pals]
+- 🔭 I’m currently working on [CryptoPals](https://github.com/Raysh454/crypto_pals)
 
 - 🌱 I’m currently learning **Rust, DSA, All things hacking**
 
