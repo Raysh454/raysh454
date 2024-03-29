@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehryar</h1>
 <h3 align="center">A passionate Hacker/Developer</h3>
 
-- 🔭 I’m currently working on [Wifi-Tools](To be added)
+- 🔭 I’m currently working on [https://github.com/Raysh454/crypto_pals]
 
 - 🌱 I’m currently learning **Rust, DSA, All things hacking**
 
