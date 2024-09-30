@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehryar</h1>
-<h3 align="center">A passionate Hacker</h3>
+<h3 align="center">A Passionate Hacker</h3>
 
 - 🔭 I’m currently working on [HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
