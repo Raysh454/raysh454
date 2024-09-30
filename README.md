@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shehryar</h1>
-<h3 align="center">A passionate Hacker/Developer</h3>
+<h3 align="center">A passionate Hacker</h3>
 
-- 🔭 I’m currently working on [CryptoPals](https://github.com/Raysh454/crypto_pals)
+- 🔭 I’m currently working on [HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
-- 🌱 I’m currently learning **Rust, DSA, All things hacking**
-
-- 💬 Ask me about **Linux**
-
-- 📫 How to reach me **shehryarhafeez03@gmail.com**
+- 📫 How to reach me **shehryarbaloch03@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shehryar-baloch-b03b65225](https://www.linkedin.com/in/shehryar-baloch-b03b65225)
 
