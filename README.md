@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehryar</h1>
-<h3 align="center">A Passionate Hacker</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student+%7C+CTF+Enthusiast;Linux+Tinkerer+%7C+Code+Ricer;Always+learning+something+new!" alt="Typing SVG" />
+</p>
 
 - 🔭 I’m currently working on [HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
