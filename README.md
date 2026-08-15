@@ -3,9 +3,6 @@
 **Software Engineer & Security Researcher** based in Karachi, Pakistan.  
 I build resilient backend systems, low-level tooling, and security platforms.
 
-🏆 **1st Place Winner — AI Seekho National Hackathon 2026** (Out of 10,000+ participants across 2,700+ teams)  
-🎓 **B.S. Computer Science** — DHA Suffa University (GPA 3.68/4.0)
-
 ---
 
 ### ⚡ Featured Engineering & Security Projects
